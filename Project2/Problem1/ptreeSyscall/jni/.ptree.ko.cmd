@@ -1,0 +1,1 @@
+cmd_/home/c-tan-one/Project2/Problem1/jni/ptree.ko := arm-linux-androideabi-ld -r  -T /home/c-tan-one/kernel/goldfish/scripts/module-common.lds --build-id  -o /home/c-tan-one/Project2/Problem1/jni/ptree.ko /home/c-tan-one/Project2/Problem1/jni/ptree.o /home/c-tan-one/Project2/Problem1/jni/ptree.mod.o

@@ -1,0 +1,24 @@
+The project contains
+	
+		//a little change of ptree syscall in project1
+	Problem1/ptreeSyscall/jni/ptree.c
+	Problem1/ptreeSyscall/jni/ptree.h
+	Problem1/ptreeSyscall/jni/prinfo.h
+	Problem1/ptreeSyscall/jni/Makefile
+	
+		//a little change of ptree call in project1
+	Problem1/callPtree/jni/callPtree.c
+	Problem1/callPtree/jni/prinfo.h
+	Problem1/callPtree/jni/Android.mk
+	
+		//test program to test the run time of linux executable file
+	Problem1/Test/jni/test.c
+	Problem1/Test/jni/Android.mk
+	
+		//set scheduler for the android application
+	Problem1/SetScheduler/jni/setSched.c
+	Problem1/SetScheduler/jni/Android.mk
+	
+		//modification of linux kernel
+	Problem2/core.c
+	Problem2/rt.c
